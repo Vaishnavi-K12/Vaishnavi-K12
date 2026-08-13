@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Vaishnavi Kajari
 
-<!--
-**Vaishnavi-K12/Vaishnavi-K12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Computer Engineering Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student from India with a strong interest in **Web Development, Backend Development, and Full-Stack Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, building practical projects, and turning ideas into functional applications. I'm currently focusing on improving my skills in **React, Laravel, Backend Development, and REST APIs**.
+
+---
+
+## 👤 About Me
+
+- 🎓 Computer Engineering Student
+- 💻 Aspiring **Full-Stack Developer**
+- 🌱 Currently learning **React, Laravel, Backend Development & REST APIs**
+- 🚀 Interested in building real-world web applications
+- 🧠 Always exploring new technologies and improving my programming skills
+- 🤝 Open to **Internships, Opportunities & Collaborations**
+- ⚡ Fun fact: I enjoy turning ideas into working projects and learning by building.
+
+---
+
+## ⚡ Current Status
+
+```text
+learning: "React, Laravel, Backend Development & REST APIs"
+building: "Full-Stack Web Applications & Practical Projects"
+exploring: "Backend Architecture, APIs & Modern Web Technologies"
+goal: "Become a skilled Full-Stack Developer"
+philosophy: "Learn → Build → Improve"
